@@ -6,7 +6,8 @@ package
 	{
 		public function test()
 		{
-			trace("hello")
+			trace("hello");
+			trace("YY","you no");
 		}
 	}
 }
